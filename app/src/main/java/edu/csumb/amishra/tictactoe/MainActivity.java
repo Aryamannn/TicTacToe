@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
-
 import edu.csumb.amishra.tictactoe.R;
 
 public class MainActivity extends AppCompatActivity {
